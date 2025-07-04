@@ -18,7 +18,7 @@ This project aims to uncover meaningful insights from website traffic data throu
 ## 📁 Dataset
 
 - **Source**: [Kaggle - Website Traffic Analysis Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/website-traffic-analysis)
-- **File Name**: `website_traffic_data.csv`
+- **File Name**: `traffic.csv`
 - **Attributes Include**:
   - Date, Page URL, Pageviews, Unique Visitors
   - Bounce Rate, Average Time on Page
